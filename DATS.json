@@ -1,6 +1,6 @@
 {
-  "title": "Microstructure-Informed Connectomics (MICs)",
-  "description": "The MICs dataset provides raw and fully processed multimodal neuroimaging data acquired in 50 healthy control participants at 3T. Modalities include high-resolution anatomical (T1w), microstructurally-sensitive (T1 mapping), diffusion-weighted and resting-state functional imaging. In addition, MICs provides ready-to-use connectomes built across multiple parcellation schemes and spatial scales based on each of these modalities. ",
+  "title": "MICA-MICs: a dataset for Microstructure-Informed Connectomics",
+  "description": "The MICA-MICs dataset provides raw and fully processed multimodal neuroimaging data acquired in 50 healthy control participants at a filed strength of 3T. Modalities include high-resolution anatomical (T1-weighted), microstructurally-sensitive (quantitative T1), diffusion-weighted and resting-state functional imaging. In addition, MICA-MICs provides ready-to-use connectomes built across multiple parcellation schemes based on brain anatomy, function, and histology (18 parcellations in total). Processed matrices are available for each imaging modality across a range of parcellation scales.",
   "identifier": {
     "identifier": "",
     "identifierSource": ""
@@ -14,10 +14,10 @@
       "email": "jessica.royer@mail.mcgill.ca",
       "affiliations": [
         {
-          "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Québec, Canada"
+          "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada"
         },
         {
-          "name": "Analytical Neurophysiology Laboratory, Montreal Neurological Institute and Hospital, McGill University, Montreal, Québec, Canada"
+          "name": "Analytical Neurophysiology Laboratory, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada"
         }
       ]
     },
@@ -26,7 +26,7 @@
       "email": "raul.rodriguezcruces@mcgill.ca",
       "affiliations": [
         {
-          "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Québec, Canada"
+          "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada"
         }
       ]
     },
@@ -35,16 +35,16 @@
       "email": "shahin.tavakol@mail.mcgill.ca",
       "affiliations": [
         {
-          "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Québec, Canada"
+          "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada"
         }
       ]
     },
     {
-      "fullName": "Sara Larivière",
+      "fullName": "Sara Lariviere",
       "email": "saratheriver@gmail.com",
       "affiliations": [
         {
-          "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Québec, Canada"
+          "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada"
         }
       ]
     },
@@ -53,7 +53,7 @@
       "email": "herholz.peer@gmail.com",
       "affiliations": [
         {
-          "name": "NeuroDataScience - ORIGAMI lab, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Québec, Canada"
+          "name": "NeuroDataScience - ORIGAMI lab, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "email": "qiongling0212@126.com",
       "affiliations": [
         {
-          "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Québec, Canada"
+          "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada"
         },
         {
           "name": "School of Biological Science & Medical Engineering, Beijing Advanced Innovation Centre for Biomedical Engineering, Beihang University, Beijing, China"
@@ -74,7 +74,7 @@
       "email": "reinder.vosdewael@gmail.com",
       "affiliations": [
         {
-          "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Québec, Canada"
+          "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada"
         }
       ]
     },
@@ -83,10 +83,10 @@
       "email": "casey.paquola@gmail.com",
       "affiliations": [
         {
-          "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Québec, Canada"
+          "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada"
         },
         {
-          "name": "Institute of Neuroscience and Medicine (INM-1), Forschungszentrum Jülich, Jülich, Germany"
+          "name": "Institute of Neuroscience and Medicine (INM-1), Forschungszentrum Julich, Julich, Germany"
         }
       ]
     },
@@ -95,7 +95,7 @@
       "email": "oualid.benkarim@upf.edu",
       "affiliations": [
         {
-          "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Québec, Canada"
+          "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada"
         }
       ]
     },
@@ -104,7 +104,10 @@
       "email": "by9433@gmail.com",
       "affiliations": [
         {
-          "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Québec, Canada"
+          "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada"
+        },
+        {
+          "name": "Department of Data Science, Inha University, Republic of Korea"
         }
       ]
     },
@@ -112,7 +115,7 @@
       "fullName": "Alexander J. Lowe",
       "affiliations": [
         {
-          "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Québec, Canada"
+          "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada"
         }
       ],
       "email": "alexander.lowe.16@ucl.ac.uk"
@@ -121,7 +124,7 @@
       "fullName": "Daniel Margulies",
       "affiliations": [
         {
-          "name": "Centre national de la recherche scientifique (CNRS), Institute du Cerveau et de la Moelle Épinière, Paris, France"
+          "name": "Centre national de la recherche scientifique (CNRS), Institute du Cerveau et de la Moelle Epiniere, Paris, France"
         }
       ],
       "email": "daniel.margulies@gmail.com"
@@ -140,7 +143,7 @@
       "email": "andrea.bernasconi@mcgill.ca",
       "affiliations": [
         {
-          "name": "Neuroimaging of Epilepsy Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Québec, Canada"
+          "name": "Neuroimaging of Epilepsy Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada"
         }
       ]
     },
@@ -149,7 +152,7 @@
       "email": "neda.ladbon-bernasconi@mcgill.ca",
       "affiliations": [
         {
-          "name": "Neuroimaging of Epilepsy Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Québec, Canada"
+          "name": "Neuroimaging of Epilepsy Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada"
         }
       ]
     },
@@ -158,7 +161,7 @@
       "email": "birgit.frauscher@mcgill.ca",
       "affiliations": [
         {
-          "name": "Analytical Neurophysiology Laboratory, Montreal Neurological Institute and Hospital, McGill University, Montreal, Québec, Canada"
+          "name": "Analytical Neurophysiology Laboratory, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada"
         }
       ]
     },
@@ -167,7 +170,7 @@
       "email": "boris.bernhardt@mcgill.ca",
       "affiliations": [
         {
-          "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Québec, Canada"
+          "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada"
         }
       ]
     }
@@ -200,10 +203,10 @@
     }
   ],
   "version": "1.0",
-  "privacy": "open",
+  "privacy": "registered",
   "licenses": [
     {
-      "name": "CC0"
+      "name": "CC BY-NC"
     }
   ],
   "distributions": [
@@ -218,7 +221,7 @@
         "value": "GB"
       },
       "access": {
-        "landingPage": "https://box.bic.mni.mcgill.ca/s/PYR4fhlS7HHaV5Q",
+        "landingPage": "https://portal.conp.ca/dataset?id=projects/mica-mics",
         "authorizations": [
           {
             "value": "public"
@@ -227,7 +230,241 @@
       }
     }
   ],
-  "primaryPublications": [],
+  "primaryPublications": [
+    {
+      "title": "An open MRI dataset for multiscale neuroscience",
+      "publicationVenue": "bioRxiv",
+      "authors": [
+        {
+          "fullName": "Jessica Royer",
+          "firstName": "",
+          "middleInitial": "",
+          "lastName": "",
+          "affiliations": [
+            {
+              "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada"
+            },
+            {
+              "name": "Analytical Neurophysiology Laboratory, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Raul Rodriguez-Cruces",
+          "firstName": "",
+          "middleInitial": "",
+          "lastName": "",
+          "affiliations": [
+            {
+              "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Shahin Tavakol",
+          "firstName": "",
+          "middleInitial": "",
+          "lastName": "",
+          "affiliations": [
+            {
+              "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Sara Lariviere",
+          "firstName": "",
+          "middleInitial": "",
+          "lastName": "",
+          "affiliations": [
+            {
+              "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Peer Herholz",
+          "firstName": "",
+          "middleInitial": "",
+          "lastName": "",
+          "affiliations": [
+            {
+              "name": "NeuroDataScience - ORIGAMI lab, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Qiongling Li",
+          "firstName": "",
+          "middleInitial": "",
+          "lastName": "",
+          "affiliations": [
+            {
+              "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada"
+            },
+            {
+              "name": "School of Biological Science & Medical Engineering, Beijing Advanced Innovation Centre for Biomedical Engineering, Beihang University, Beijing, China"
+            }
+          ]
+        },
+        {
+          "fullName": "Reinder Vos de Wael",
+          "firstName": "",
+          "middleInitial": "",
+          "lastName": "",
+          "affiliations": [
+            {
+              "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Casey Paquola",
+          "firstName": "",
+          "middleInitial": "",
+          "lastName": "",
+          "affiliations": [
+            {
+              "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada"
+            },
+            {
+              "name": "Institute of Neuroscience and Medicine (INM-1), Forschungszentrum Julich, Julich, Germany"
+            }
+          ]
+        },
+        {
+          "fullName": "Oualid Benkarim",
+          "firstName": "",
+          "middleInitial": "",
+          "lastName": "",
+          "affiliations": [
+            {
+              "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Bo-yong Park",
+          "firstName": "",
+          "middleInitial": "",
+          "lastName": "",
+          "affiliations": [
+            {
+              "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada"
+            },
+            {
+              "name": "Department of Data Science, Inha University, Republic of Korea"
+            }
+          ]
+        },
+        {
+          "fullName": "Alexander J. Lowe",
+          "firstName": "",
+          "middleInitial": "",
+          "lastName": "",
+          "affiliations": [
+            {
+              "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Daniel Margulies",
+          "firstName": "",
+          "middleInitial": "",
+          "lastName": "",
+          "affiliations": [
+            {
+              "name": "Centre national de la recherche scientifique (CNRS), Institute du Cerveau et de la Moelle Epiniere, Paris, France"
+            }
+          ]
+        },
+        {
+          "fullName": "Jonathan Smallwood",
+          "firstName": "",
+          "middleInitial": "",
+          "lastName": "",
+          "affiliations": [
+            {
+              "name": "Department of Psychology, Queens University, Kingston, Ontario, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Andrea Bernasconi",
+          "firstName": "",
+          "middleInitial": "",
+          "lastName": "",
+          "affiliations": [
+            {
+              "name": "Neuroimaging of Epilepsy Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Neda Bernasconi",
+          "firstName": "",
+          "middleInitial": "",
+          "lastName": "",
+          "affiliations": [
+            {
+              "name": "Neuroimaging of Epilepsy Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Birgit Frauscher",
+          "firstName": "",
+          "middleInitial": "",
+          "lastName": "",
+          "affiliations": [
+            {
+              "name": "Analytical Neurophysiology Laboratory, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Boris C. Bernhardt",
+          "firstName": "",
+          "middleInitial": "",
+          "lastName": "",
+          "affiliations": [
+            {
+              "name": "Multimodal Imaging and Connectome Analysis Laboratory, McConnell Brain Imaging Centre, Montreal Neurological Institute and Hospital, McGill University, Montreal, Quebec, Canada"
+            }
+          ]
+        }
+      ],
+      "dates": [],
+      "identifier": {
+        "identifier": "",
+        "identifierSource": ""
+      }
+    }
+  ],
+  "acknowledges": [
+    {
+      "name": "Grants",
+      "funders": [
+        {
+          "name": "Canadian Institute of Health Research ",
+          "abbreviation": "CIHR"
+        },
+        {
+          "name": "Canadian Open Neuroscience Platform",
+          "abbreviation": "CONP"
+        },
+        {
+          "name": "Canada Research Chairs program",
+          "abbreviation": "CRC"
+        },
+        {
+          "name": "National Sciences and Engineering Research Council of Canada",
+          "abbreviation": "NSERC"
+        }
+      ]
+    }
+  ],
   "keywords": [
     {
       "value": "Multimodal MRI"
@@ -293,7 +530,7 @@
       "category": "origin_province",
       "values": [
         {
-          "value": "Québec"
+          "value": "Quebec"
         }
       ]
     },
@@ -309,7 +546,7 @@
       "category": "logo",
       "values": [
         {
-          "value": "https://box.bic.mni.mcgill.ca/s/KaLMZnmQZS3IPCO"
+          "value": "https://box.bic.mni.mcgill.ca/s/Xc5zow8O2nzutWL"
         }
       ]
     },
