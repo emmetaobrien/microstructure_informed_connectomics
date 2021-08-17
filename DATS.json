@@ -1,6 +1,6 @@
 {
   "title": "MICA-MICs: a dataset for Microstructure-Informed Connectomics",
-  "description": "The MICA-MICs dataset provides raw and fully processed multimodal neuroimaging data acquired in 50 healthy control participants at a filed strength of 3T. Modalities include high-resolution anatomical (T1-weighted), microstructurally-sensitive (quantitative T1), diffusion-weighted and resting-state functional imaging. In addition, MICA-MICs provides ready-to-use connectomes built across multiple parcellation schemes based on brain anatomy, function, and histology (18 parcellations in total). Processed matrices are available for each imaging modality across a range of parcellation scales.",
+  "description": "The MICA-MICs dataset provides raw and fully processed multimodal neuroimaging data acquired in 50 healthy control participants at a field strength of 3T. Modalities include high-resolution anatomical (T1-weighted), microstructurally-sensitive (quantitative T1), diffusion-weighted and resting-state functional imaging. In addition, MICA-MICs provides ready-to-use connectomes built across multiple parcellation schemes based on brain anatomy, function, and histology (18 parcellations in total). Processed matrices are available for each imaging modality across a range of parcellation scales.",
   "identifier": {
     "identifier": "",
     "identifierSource": ""
@@ -510,6 +510,14 @@
         }
       ]
     },
+		{
+			"category": "logo",
+			"values": [
+				{
+					"value": "logo.png"
+				}
+			]
+		},
     {
       "category": "origin_institution",
       "values": [
